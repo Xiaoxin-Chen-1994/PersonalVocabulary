@@ -12,9 +12,13 @@ This script imports various modules, especially [tkinter](https://docs.python.or
 The idea of this personal dictionary was inspired by an academic writing course that I took in the first year of my PhD study. 
 
 ## The interface
+Below is a screenshot of the interface. 
+
 The left side envelops different options for sources of online dictionaries. 
 
 The right side loads my/your personal dictionary. 
+
+![image](https://github.com/Xiaoxin-Chen-1994/PersonalVocabulary/assets/49115976/4ae90a9b-65f0-49df-b98b-760fce4df377)
 
 ## There are six main buttons. 
 ### Show/Hide
