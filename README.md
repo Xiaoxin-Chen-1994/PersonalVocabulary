@@ -4,6 +4,8 @@ This Python script was created for my personal usage, and I'm sharing it online 
 
 Compared to online software for expanding vocabulary, the benefit of a personal dictionary is that it's more relevant to myself. I can add only the words that I want to learn, and I can make any notes I want to it. 
 
+In this repository, I've uploaded both the script and an example of the .csv personal dictionary file. 
+
 ## Acknowledgement
 First of all, I'd like to acknowledge that this script opens--or at least attempts to open--webpages from various sources including [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com), [Dictionary.com](https://www.dictionary.com/), [YouGlish.com](https://youglish.com/) and [Google.com](https://www.google.com/). These are sites that I like and find helpful to myself. 
 
